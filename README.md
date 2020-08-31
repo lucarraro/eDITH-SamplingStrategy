@@ -1,6 +1,6 @@
 # eDITH-SamplingStrategy
 
-MATLAB code and data supporting Carraro L,Stauffer JB, Altermatt F. How to design optimal eDNA sampling strategies for biomonitoring in river networks, *environmental DNA* (accepted), 2020.
+MATLAB code and data supporting Carraro L, Stauffer JB, Altermatt F. How to design optimal eDNA sampling strategies for biomonitoring in river networks, *environmental DNA* (accepted), 2020.
 
 ## Main scripts
 
